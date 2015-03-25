@@ -1,4 +1,9 @@
 #!/bin/bash
+#***********************************************
+#      Function: A tool for configuring JDK    *
+#      Author  : BobZhao		       *
+#      Date    : 2015-03-25		       *
+#***********************************************
 
 usage(){
     echo "Usage: ./`basename $0` xxoo.tar.gz"

@@ -1,4 +1,4 @@
 # Script Description
 
-A trash implementation for Linux
+A trash box implementation for Linux
 

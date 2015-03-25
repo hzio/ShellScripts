@@ -1,3 +1,3 @@
 # Script Description
-A shell script for configuring JDK on Linux
+ A shell script for configuring JDK conveniently on Linux
 
